@@ -11,7 +11,6 @@ The Five-Armed Bandit Task Game is an interactive decision-making game designed 
 3. [How to Play](#how-to-play)
 4. [Game Controls](#game-controls)
 5. [Credits](#credits)
-6. [License](#license)
 
 ## Installation and Setup
 To run the game locally, follow these steps:
